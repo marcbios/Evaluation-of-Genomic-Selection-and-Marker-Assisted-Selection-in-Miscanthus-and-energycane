@@ -1,2 +1,2 @@
-# Evaluation-of-Genomic-Selection-in-Energycane-Backcross-Populations
+# Evaluation of Genomic Selection and Marker-Assisted Selection in Miscanthus and energycane 
 Simulation R Scripts
